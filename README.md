@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybergauravv&label=Profile%20views&color=0e75b6&style=flat" alt="cybergauravv" /> </p>
 
-- 🔭 I’m currently working on **I am currently exploring various domains of cybersecurity to both deepen my knowledge and share insights with others. My goal is to simplify complex concepts and make cybersecurity accessible and understandable for everyone.**
+- 🔭 I’m currently working on ** exploring various domains of cybersecurity to both deepen my knowledge and share insights with others. My goal is to simplify complex concepts and make cybersecurity accessible and understandable for everyone.**
 
 - 🌱 I’m currently **Diving deep into the thrilling world of Red Team tactics, I’m crafting engaging content to illuminate the art of defense. Simultaneously, I’m navigating the dynamic landscape of DevSecOps, working on innovative projects to integrate security seamlessly into development.**
 
