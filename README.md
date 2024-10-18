@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gaurav Soni</h1>
 <h3 align="center">Cybersecurity Specialist | Penetration Tester | DevSecOps Enthusiast</h3>
 
-  ![My Logo](https://raw.githubusercontent.com/cybergauravv/cybergauravv/main/mylogo.png)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/cybergauravv/cybergauravv/main/mylogo.png" alt="My Logo" width="300"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybergauravv&label=Profile%20views&color=0e75b6&style=flat" alt="cybergauravv" /> </p>
 
