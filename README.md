@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav Soni</h1>
+<h1 align="center">Hello! 👋, I'm Gaurav Soni</h1>
 <h3 align="center">Cybersecurity Specialist | Penetration Tester | DevSecOps Enthusiast</h3>
 
 <div align="center">
@@ -7,15 +7,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybergauravv&label=Profile%20views&color=0e75b6&style=flat" alt="cybergauravv" /> </p>
 
-- 🔭 I’m currently working on ** exploring various domains of cybersecurity to both deepen my knowledge and share insights with others. My goal is to simplify complex concepts and make cybersecurity accessible and understandable for everyone.**
+- 🔭 **I am actively engaged in exploring diverse domains within the field of cybersecurity, with the dual purpose of enhancing my own understanding and sharing valuable insights with others. My primary objective is to simplify complex cybersecurity concepts, making them accessible and comprehensible to a broader audience. I believe that by demystifying these critical topics, I can empower individuals and organizations to better protect themselves in an increasingly digital world. Through my efforts, I aim to foster a culture of cybersecurity awareness and education, ensuring that everyone has the tools and knowledge necessary to navigate the challenges of the digital landscape.**
 
-- 🌱 I’m currently **Diving deep into the thrilling world of Red Team tactics, I’m crafting engaging content to illuminate the art of defense. Simultaneously, I’m navigating the dynamic landscape of DevSecOps, working on innovative projects to integrate security seamlessly into development.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/cybergauravv](https://github.com/cybergauravv)
+- 🌱 **I’m currently diving into advanced Red Team tactics, exploring the offensive security techniques that can help us build stronger defenses. Through my work, I aim to create engaging content that shows how understanding these tactics can make a real difference in protecting against cyber threats. At the same time, I’m also working in the exciting field of DevSecOps, where I’m involved in projects that seamlessly weave security into the development process. My goal is to help teams adopt a proactive approach to security, ensuring that we build solid defenses right from the start..**
 
-- 💬 Ask me about **Cybersecurity, Network Security, Cloud Infrastructures, Penetration Testing**
+- 👨‍💻 All of my projects are available [here](https://github.com/cybergauravv?tab=repositories)
 
-- ⚡ Fun fact **I love Travel, Photography**
+- 💬 Ask me about: **`Cybersecurity`, `Network Security`, `Cloud Infrastructures`, `Penetration Testing`, `Ethical Hacking`, `DevSecOps`**
+
+- ⚡ Fun fact: **I love Travelling, Photography, Motorbiking and Camping**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
