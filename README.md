@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋, I'm Gaurav Soni</h1>
+<h1 align="center">Namaste! 👋, I'm Gaurav Soni</h1>
 <h3 align="center">Cybersecurity Specialist | Penetration Tester | DevSecOps Enthusiast</h3>
 
 <div align="center">
