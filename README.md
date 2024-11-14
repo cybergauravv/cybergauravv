@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/cybergauravv?tab=repositories)
 
-- 💬 Ask me about: **`Cybersecurity`, `Network Security`, `Cloud Infrastructures`, `Penetration Testing`, `Ethical Hacking`, `DevSecOps`**
+- 💬 Ask me about: **`Cybersecurity`, `Network Security`, `Cloud Infrastructures`,  `Malware Analysis`, `Penetration Testing`, `Ethical Hacking`, `DevSecOps`**
 
 - ⚡ Fun fact: **I love Travelling, Photography, Motorbiking and Camping**
 
