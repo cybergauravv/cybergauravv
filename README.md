@@ -7,10 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybergauravv&label=Profile%20views&color=0e75b6&style=flat" alt="cybergauravv" /> </p>
 
-- 🔭 **I am actively engaged in exploring diverse domains within the field of cybersecurity, with the dual purpose of enhancing my own understanding and sharing valuable insights with others. My primary objective is to simplify complex cybersecurity concepts, making them accessible and comprehensible to a broader audience. I believe that by demystifying these critical topics, I can empower individuals and organizations to better protect themselves in an increasingly digital world. Through my efforts, I aim to foster a culture of cybersecurity awareness and education, ensuring that everyone has the tools and knowledge necessary to navigate the challenges of the digital landscape.**
+- 🔭 **As a seasoned Cybersecurity Specialist, I'm passionate about staying one step ahead of threats. Currently, I'm engaged in Purple Team exercises, honing my skills in Offensive Security and Red Team practices to simulate real-world attacks and strengthen defenses..**
 
 
-- 🌱 **I’m currently diving into advanced Red Team tactics, exploring the offensive security techniques that can help us build stronger defenses. Through my work, I aim to create engaging content that shows how understanding these tactics can make a real difference in protecting against cyber threats. At the same time, I’m also working in the exciting field of DevSecOps, where I’m involved in projects that seamlessly weave security into the development process. My goal is to help teams adopt a proactive approach to security, ensuring that we build solid defenses right from the start..**
+- 🌱 **I'm also diving deeper into the world of Reverse Engineering and Exploit Development, constantly seeking to improve my skills in dissecting malware, analyzing vulnerabilities, and crafting innovative solutions to stay ahead of the threat landscape..**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/cybergauravv?tab=repositories)
 
