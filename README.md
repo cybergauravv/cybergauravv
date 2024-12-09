@@ -1,5 +1,5 @@
 <h1 align="center">Namaste! 👋, I'm Gaurav Soni</h1>
-<h3 align="center">Cybersecurity Specialist | Penetration Tester | DevSecOps Enthusiast</h3>
+<h3 align="center">Cybersecurity Specialist | Penetration Tester | Malware Analyst | Threat Hunter | Reverse Engineer | Purple Team</h3>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/cybergauravv/cybergauravv/main/mylogo.png" alt="My Logo" width="300"/>
