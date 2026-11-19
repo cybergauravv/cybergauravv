@@ -13,11 +13,9 @@ My day-to-day work revolves around defending organizations from cyber threats, s
 
 - 🌱 **I'm also diving deeper into the world of Reverse Engineering and Exploit Development, constantly seeking to improve my skills in dissecting malware, analyzing vulnerabilities, and crafting innovative solutions to stay ahead of the threat landscape..**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/cybergauravv?tab=repositories)
-
-- 💬 Ask me about: **`Cybersecurity`, `Network Security`, `Cloud Infrastructures`,  `Malware Analysis`, `Penetration Testing`, `Ethical Hacking`, `DevSecOps`**
-
 - ⚡ Fun fact: **When I'm away from a screen, you'll probably find me outdoors, camping, biking, off-roading, reflecting, learning something new, or lost in a conversation that starts with Technology, Space, Psychology or Paranormal entities and somehow ends with the future of humanity. I believe expertise is important, but curiosity is what keeps us growing.**
+
+- 👨‍💻 All of my projects are available [here](https://github.com/cybergauravv?tab=repositories)*
 
 - **So whether you're interested in cybersecurity, technology, research, innovation, or lifelong learning, let's connect and exchange ideas.**
 
