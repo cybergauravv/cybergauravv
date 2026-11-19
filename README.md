@@ -16,7 +16,7 @@
 
 - 💬 Ask me about: **`Cybersecurity`, `Network Security`, `Cloud Infrastructures`,  `Malware Analysis`, `Penetration Testing`, `Ethical Hacking`, `DevSecOps`**
 
-- ⚡ Fun fact: **I love Travelling, Photography, Motorbiking and Camping**
+- ⚡ Fun fact: **I love Outdoors, Camping, Off-Roading and Reading Minds**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
