@@ -15,7 +15,7 @@ My day-to-day work revolves around defending organizations from cyber threats, s
 
 - ⚡ Fun fact: **When I'm away from a screen, you'll probably find me outdoors, camping, biking, off-roading, reflecting, learning something new, or lost in a conversation that starts with Technology, Space, Psychology or Paranormal entities and somehow ends with the future of humanity. I believe expertise is important, but curiosity is what keeps us growing.**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/cybergauravv?tab=repositories)*
+- 👨‍💻 *All of my projects are available [here](https://github.com/cybergauravv?tab=repositories)*
 
 - **So whether you're interested in cybersecurity, technology, research, innovation, or lifelong learning, let's connect and exchange ideas.**
 
