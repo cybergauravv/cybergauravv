@@ -7,7 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybergauravv&label=Profile%20views&color=0e75b6&style=flat" alt="cybergauravv" /> </p>
 
-- 🔭 **As a seasoned Cybersecurity Specialist, I'm passionate about staying one step ahead of threats. Currently, I'm engaged in Purple Team exercises, honing my skills in Offensive Security and Red Team practices to simulate real-world attacks and strengthen defenses..**
+- 🔭 **I'm a cybersecurity professional with a simple mindset: protect what matters, stay curious, and never stop learning.
+My day-to-day work revolves around defending organizations from cyber threats, strengthening security programs, investigating risks, and helping transform security from a technical requirement into a business enabler.**
 
 
 - 🌱 **I'm also diving deeper into the world of Reverse Engineering and Exploit Development, constantly seeking to improve my skills in dissecting malware, analyzing vulnerabilities, and crafting innovative solutions to stay ahead of the threat landscape..**
@@ -16,7 +17,9 @@
 
 - 💬 Ask me about: **`Cybersecurity`, `Network Security`, `Cloud Infrastructures`,  `Malware Analysis`, `Penetration Testing`, `Ethical Hacking`, `DevSecOps`**
 
-- ⚡ Fun fact: **I love Outdoors, Camping, Off-Roading and Reading Minds**
+- ⚡ Fun fact: **When I'm away from a screen, you'll probably find me outdoors, camping, biking, off-roading, reflecting, learning something new, or lost in a conversation that starts with Technology, Space, Psychology or Paranormal entities and somehow ends with the future of humanity. I believe expertise is important, but curiosity is what keeps us growing.**
+
+- ** So whether you're interested in cybersecurity, technology, research, innovation, or lifelong learning, let's connect and exchange ideas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
